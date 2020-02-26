@@ -1,4 +1,4 @@
-v1.3.0 (2019-11-19)
+lsv1.3.0 (2019-11-19)
 -----------
 * Improve mysql driver (@yxt945)
 * Improve cluster
